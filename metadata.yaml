@@ -1,0 +1,36 @@
+_repo: Les-vrais-sous-offs--13-R-ponse---M.-Descaves_18611
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Darien, Georges
+    alias: Adrien, Georges Hippolyte
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '5984'
+    url: http://www.gutenberg.org/2009/agents/5984
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Darien
+  - agent_name: Dubus, Édouard
+    alias: Dubus, Edouard
+    birthdate: 1863
+    deathdate: 1894
+    gutenberg_agent_id: '8147'
+    url: http://www.gutenberg.org/2009/agents/8147
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2006-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18611'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Soldiers -- France'
+- !lcsh 'Descaves, Lucien, 1861-1949. Sous-offs'
+title: "Les vrais sous-offs\r\nRéponse à M. Descaves"
+url: http://www.gutenberg.org/ebooks/18611
